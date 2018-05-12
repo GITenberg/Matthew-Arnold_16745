@@ -1,0 +1,32 @@
+_repo: Matthew-Arnold_16745
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Russell, George William Erskine
+    aliases:
+    - Russell, George W. E.
+    - Russell, G. W. E. (George William Erskine)
+    birthdate: 1853
+    deathdate: 1919
+    gutenberg_agent_id: '4061'
+    url: http://www.gutenberg.org/2009/agents/4061
+    wikipedia: http://en.wikipedia.org/wiki/George_William_Erskine_Russell
+description: ''
+gutenberg_issued: '2005-09-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16745'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Arnold, Matthew, 1822-1888'
+- !lcsh 'Critics -- Great Britain -- Biography'
+- !lcc 'PR'
+- !lcsh 'Poets, English -- 19th century -- Biography'
+title: Matthew Arnold
+url: http://www.gutenberg.org/ebooks/16745
